@@ -1,0 +1,24 @@
+{
+  "name": "pmappswagger",
+  "version": "1.0.0",
+  "description": "PMAPPテーブルで使っているテーブルを対象にSwaggerUIでAPIを実装する API実行により取得されるクエリの内容は、PwdChatで使っているものと同じとする",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yu-Mo-13/pmappSwagger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yu-Mo-13/pmappSwagger/issues"
+  },
+  "homepage": "https://github.com/Yu-Mo-13/pmappSwagger#readme",
+  "dependencies": {
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
